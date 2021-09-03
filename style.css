@@ -1,0 +1,29 @@
+body {
+    background-color: #333;
+}
+
+table {
+    border-spacing: 0;
+}
+
+td {
+    padding: 0;
+}
+
+.chords {
+    color: #00FFFFFF;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.text {
+    color: #00A6D3EB;
+}
+
+.comment {
+    color: lightblue;
+}
+
+.empty {
+    height: 5vh;
+}
